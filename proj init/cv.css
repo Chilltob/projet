@@ -1,0 +1,24 @@
+h1{
+	color: red;
+	font-family: Impact;
+	font-size: 35px;
+}
+.bob{
+	color: blue;
+	font-size: 20px;
+	font-family: Impact;
+}
+.bidule{
+	color: blue;
+	font-family: impact;
+	font-size: 20px;
+}
+.moule{
+	color: blue;
+	font-size: 20px;
+	font-family: Impact;
+}
+
+body{
+	background: url("img/pp.jpeg");
+}
